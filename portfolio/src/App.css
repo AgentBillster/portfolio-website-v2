@@ -1,0 +1,37 @@
+.Steak{
+	display: none;
+}
+
+/* body {
+	animation-duration: 1s;
+	animation-fill-mode: forwards;
+	animation-name: fade;
+}
+
+@keyframes fade {
+	to {
+		background-color: rgb(10, 10, 10);
+	}
+}
+
+.logo {
+	border: 3px solid blue;
+	margin-top: 50vh;
+} 
+
+/* 
+h1 {
+	color: silver;
+	margin-top: 50vh;
+	font-size: 100px;
+	text-align: center;
+	font-family: 'Cormorant Garamond', serif;
+} */
+
+.nums {
+	display: flex;
+	flex-wrap: wrap;
+}
+
+
+  
